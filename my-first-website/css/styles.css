@@ -1,0 +1,15 @@
+h1  {
+    color: red;
+    text-align: center;
+    font-style: normal;
+}
+h2  {
+    color: red;
+    font-style: normal;
+    text-align: center;
+}
+p  {
+   font-family: cursive; 
+}
+ul  {line-height: 40px;
+}

@@ -1,0 +1,37 @@
+body{
+  /* {background-image: url('./images/pennyfarhn.jpg'); */
+   background-image: url('../images/pennyfarhng.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-left:200px solid red;
+   border-right: 200px solid red;
+}
+header{
+  text-align: center;
+         
+}
+.bod   {text-align: center;
+   color:red;
+   font-size: larger;
+}
+.link  
+  {color: pink;
+}
+.head1 
+  {font-style: italic;
+   color: pink; 
+   opacity: 100%;
+}
+.lol  {text-align: center;
+       color: red;
+       font-size: larger;
+}
+.lol2
+  {color:pink;
+   font-size: larger;
+}
+.lol3
+  {text-align: center;
+}
+
+
